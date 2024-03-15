@@ -7,6 +7,12 @@ int main()
     // cin >> t;
     // while (t--)
     // {
+
         cout<<"HELLO WORLD"<<endl;
     //}
+
+         cout<<"HELLO GIT!"<<endl;
+        
+    // }
+
 }
