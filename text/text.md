@@ -1,0 +1,6 @@
+The article offers some helpful tips for anyone thinking about contributing to open source projects, particularly MDN Web Docs. It suggests understanding my motivation for contributing, like wanting to improve the tool or showcase my skills. It emphasizes being kind and respectful to other contributors, showing gratitude and offering constructive feedback. It also stresses the importance of being aware of different backgrounds and sticking to project-related topics to avoid conflicts.
+
+Additionally, it advises adhering to the project's code of conduct and reporting any uncomfortable situations. When choosing what to work on, it suggests focusing on contributions that add value, like fixing bugs or improving documentation. It encourages reading the project's guidelines thoroughly and using appropriate channels for communication.
+
+The article also touches on being patient when waiting for responses or reviews, understanding that contributors have other commitments. Lastly, it highlights the importance of respecting decision-making processes within the project and engaging in constructive dialogue. Overall, it promotes positive collaboration and effective communication in open source communities.
+
