@@ -1,0 +1,7 @@
+Contributing to open source projects (OSPs) requires some etiquette to ensure a positive and productive environment. Start by understanding why you want to contribute. Always be polite, kind, and avoid offensive language. Respect others' contributions and be supportive. Choose contributions wisely, focusing on productive fixes rather than personal preferences. Familiarize yourself with project documentation and ask for help when needed. Communicate effectively, keeping discussions focused and avoiding noise. Remember that OSPs operate democratically, respecting decisions made by core contributors. Be patient when awaiting responses or reviews, as contributors often work in their free time. In return, respond promptly to requests for your assistance. Following these guidelines ensures a harmonious and efficient open source community.
+other points that must be kept in mind while contributing towards OSPs:
+license awareness
+code quality
+testing and documentation
+community engagement
+version control etiquettes
