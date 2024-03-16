@@ -53,7 +53,7 @@ You should now have two commits in the `squashing` branch, one adding hello worl
 
 To *squash* the multiple commits into one, we can do an *interactive rebase*. To start, run `git rebase --interactive HEAD~2`. Replace the `pick` on the second line with `s` to squash the commit. Save the file and exit the editor. You will then be prompted to enter a new commit message for the combination of the two commits.
 
-After you are done squashing the commits, push the changes. Since you are pushing to the same branch, the previous PR will be updated automatically. You will need to force the push with `git push --force` because you will be overwriting previous commits.
+After you are done squashing the commits, push the changes. Since you are pushing to the same branch, the previous PR will be updated automatically. You will need to force the push with `git push --force` because you will be overwriting previous commits
 
 ## Next steps
 
