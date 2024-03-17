@@ -1,0 +1,8 @@
+The article provides guidance for newcomers to open-source projects (OSPs).
+It emphasizes understanding personal motivations for contributing.
+Kindness and respect in interactions with fellow contributors are highlighted.
+Choosing meaningful contributions aligned with project goals is encouraged.
+Following project guidelines and seeking help when needed are important.
+Minimizing noise in communication channels is advocated.
+The democratic nature of OSPs is underscored, promoting patience and timely responses.
+The summary encourages productive and considerate engagement to foster a positive and inclusive open-source community.
