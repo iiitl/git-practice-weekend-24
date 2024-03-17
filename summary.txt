@@ -1,0 +1,15 @@
+Kindness and respect in interactions with fellow contributors are highlighted.
+It emphasizes understanding personal motivations for contributing.
+Choosing meaningful contributions aligned with project goals is encouraged.
+Following project guidelines and seeking help when needed are important.
+The article provides guidance for newcomers to open-source projects (OSPs).
+Minimizing noise in communication channels is advocated.
+The democratic nature of OSPs is underscored, promoting patience and timely responses.
+The summary encourages productive and considerate engagement to foster a positive and inclusive open-source community.
+
+EXTRA POINTS
+The commit message should not be too long.
+We should learn from our mistakes.
+Follow the suggestions and make note of them.
+Experience in open source give everyone an edge over others.
+Description of the pull request should be good and should contain most of the detail regarding the Pull Request.
