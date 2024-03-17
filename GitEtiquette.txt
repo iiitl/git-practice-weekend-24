@@ -1,0 +1,10 @@
+1. Understand your motivations for contributing to an open source project (OSP) to ensure meaningful engagement, whether it's for personal growth(nothing is wrong in expecting some personal benefit when working for free), improving skills, or helping others.
+2. Be kind and respectful when interacting with fellow contributors, express gratitude, give constructive feedback, and maintain a supportive atmosphere.
+3. Do not use offensive language, staying on topic and refraining from controversial discussions to maintain a professional environment.
+4. Follow the project's code of conduct and guidelines, which helps maintain a safe and inclusive space for all contributors.
+5. Choose contributions wisely, focusing on tasks aligned with project needs, such as fixing bugs, improving documentation, etc.
+6. Always read the project's documentation and guidelines, seeking answers independently before asking for help.
+7. Use appropriate communication channels for questions and discussions, tp avoid noise and keep conversations productive.
+8. Respect the decision-making process within the project, understanding that some decisions may be made by core contributors or moderators.
+9. Be patient in interactions, acknowledging the voluntary nature of contributions and allowing time for responses.
+10. Maintain professionalism and collaboration, recognizing the value of teamwork and collective efforts in OSPs.
