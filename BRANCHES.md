@@ -5,7 +5,7 @@ A very central feature of git is having *branches*, which allow you to work on m
 We usually use branches to allow multiple people to work on the same codebase and to test different new features without affecting other features. Then, when we are sure that our code works, we can *merge* it in the main branch.
 
 ## Branching
-
+i have created a new branch called branching successfully..
 To figure out what branch you are currently on, use `git status`. This will show the branch name you are currently on, along with a bunch of other information about the status of the project.
 
 To create a new branch and start working on it,
