@@ -1,10 +1,9 @@
-1. Understand your motivations for contributing to an open source project (OSP) to ensure meaningful engagement, whether it's for personal growth(nothing is wrong in expecting some personal benefit when working for free), improving skills, or helping others.
-2. Be kind and respectful when interacting with fellow contributors, express gratitude, give constructive feedback, and maintain a supportive atmosphere.
-3. Do not use offensive language, staying on topic and refraining from controversial discussions to maintain a professional environment.
-4. Follow the project's code of conduct and guidelines, which helps maintain a safe and inclusive space for all contributors.
-5. Choose contributions wisely, focusing on tasks aligned with project needs, such as fixing bugs, improving documentation, etc.
-6. Always read the project's documentation and guidelines, seeking answers independently before asking for help.
-7. Use appropriate communication channels for questions and discussions, tp avoid noise and keep conversations productive.
-8. Respect the decision-making process within the project, understanding that some decisions may be made by core contributors or moderators.
-9. Be patient in interactions, acknowledging the voluntary nature of contributions and allowing time for responses.
-10. Maintain professionalism and collaboration, recognizing the value of teamwork and collective efforts in OSPs.
+1. Why am I contributing? Bored, want to gain skills, want to be acknowledged, want to be productive, etc can all be reasons for contributing and anything is fine because we are working for free.
+2. Be polite, use thank you, please and congratulate people to nourish a good collaborative environment.
+3. Choose effective contributions to make and don't make changes based on personal preference and follow the project's guidelines.
+4. Always read the README.md, the provided docs and try to find solutions before asking other contributors for help. This helps gain knowledge and become independent adn also not put unnecessary burden on other contributors. But even after searching for the solution if you don't find it, feel free to ask the community.
+5. Ask questions in the specified place and do not create issues and create noise in the main stream.
+6. Respect the decision of the core contributors and the moderators even if it goes against our opinion.
+7. Be patient, do not expect quick feedback. They assign us an issue and wait for our work, so we should also wait for them after a PR or after commenting, etc. All of us are humans afterall.
+
+PS: In the previous PR, I read the entire MDN web doc and just asked ai to summarize it for me and then edited every line of the ai generated answer. But yes, writing it own my own does give an extra level of experience.
