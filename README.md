@@ -16,9 +16,9 @@ Pull requests allow you to suggest certain changes you have made to the main rep
 
 Start by editing the following line:
 
-- [ ] git is awesome!
+- [x] git is awesome!
 
-Check the box saying git is awesome. You can do this **in the browser** by clicking on this file name(README.md) in the code explorer, and then clicking the edit button(little pencil icon). See [this](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-your-repository) if you are having trouble with this step.
+Checked the box saying git is awesome. You can do this **in the browser** by clicking on this file name(README.md) in the code explorer, and then clicking the edit button(little pencil icon). See [this](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-your-repository) if you are having trouble with this step.
 
 Then, change the `[ ]` in the line above to `[x]`. You can then save the changes to your repository by clicking the commit changes button. Optionally, you can specify a commit message to describe the changes you made.
 
